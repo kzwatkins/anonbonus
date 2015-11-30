@@ -1,0 +1,115 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	color: rgb(237,125,49);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 85%;
+	background-color: rgb(255,245,214);
+}
+
+div{
+	color: rgb(237,125,49);
+	font-size: 150%;
+	vertical-align: middle;
+	text-align: center;
+}
+
+table{
+	text-align: center;
+	horizontal-align: left;
+	vertical-align: top;
+	padding: 10px;
+}
+
+td {
+	padding: 10px;
+}
+
+.col{
+	text-align: center;
+}
+
+
+a:link {
+	color: #006633;
+}
+
+a:active {
+	color: #006633;
+}
+
+a:visited {
+	color: #996600;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 145%;
+}
+
+h2 {
+	font-size: 135%;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 125%;
+}
+
+h4 {
+	font-size: 115%;
+}
+
+.footer {
+	font-family: "Times New Roman", Times, serif;
+}
+
+.base {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.smaller {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 80%;
+}
+
+.error{
+	color: #AA0000;
+}
+
+.code{
+	background-image: url("../pics/code.png");
+	background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+	font-weight: bold;
+	font-size: 175%;
+	width: 250px;
+}
+
+.leftpane{
+	height : 50px;
+}
+
+.longbutton{
+	width : 150px;
+	background-color: rgb(237,125,49);
+	color: rgb(255,245,214);
+}
+
+.results {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 200%;
+	font-weight: bold;
+}
